@@ -1,4 +1,5 @@
 # keyd.conf
+[keyd](https://github.com/rvaiya/keyd/tree/master)
 # /etc/keyd/default.conf config for capslock remap
 ```yaml
 
